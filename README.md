@@ -3,6 +3,20 @@
 ## Description
 A simple React application designed to reinforce state management and data flow through components.
 
+### Props
+The FilterableProductTable component passes the product list to the ProductTable component as a prop.
+
+The SearchBar component receives the filter text and in-stock filter state as props.
+
+The ProductTable component receives filtered products as a prop and displays them accordingly.
+
+### State
+filterText keeps track of what the user types in the search bar.
+
+inStockOnly determines whether to show only in-stock products.
+
+These states update dynamically when the user interacts with the input field or checkbox.
+
 ## Table of Contents
 - [App Demo](#app-demo)
 - [Installation](#installation)

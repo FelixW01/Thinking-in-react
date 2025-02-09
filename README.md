@@ -4,10 +4,13 @@
 A simple React application designed to reinforce state management and data flow through components.
 
 ## Table of Contents
+- [App Demo](#app-demo)
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [Questions](#questions)
 
+## App Demo
+![image](https://github.com/user-attachments/assets/69f3e3ec-14a6-43d3-bcec-08a0ed33c9a9)
 
 ## Installation
 To run locally, follow these steps:
